@@ -172,7 +172,8 @@ LIMIT 10;
 Objective: Identify the top 10 actors with the most appearances in Indian-produced movies.
 
 ## Screenshots from PostgreSQL
-![screenshots](https://github.com/piyusharora4371-wq/netflix_sql_project/blob/main/2026-04-22.png)(https://github.com/piyusharora4371-wq/netflix_sql_project/blob/main/2026-04-22%20(1).png)
+![screenshot1](https://github.com/piyusharora4371-wq/netflix_sql_project/blob/main/2026-04-22.png)
+[Screenshot2](https://github.com/piyusharora4371-wq/netflix_sql_project/blob/main/2026-04-22%20(1).png)
 
 Findings and Conclusion
 Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
